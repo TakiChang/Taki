@@ -1,0 +1,751 @@
+.desktop-5-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 75px;
+}
+.locate-a-dealer,
+.test-ride {
+  position: absolute;
+  top: 23px;
+  left: 953px;
+  font-size: var(--font-size-smi);
+  color: var(--color-black);
+}
+.test-ride {
+  top: 22px;
+  left: 852px;
+}
+.desktop-5-inner,
+.desktop-5-item {
+  position: absolute;
+  top: 75px;
+  left: 0;
+  background-color: #018e20;
+  width: 1440px;
+  height: 5px;
+}
+.desktop-5-inner {
+  top: 80px;
+  background-color: #464646;
+  height: 55px;
+}
+.research-tools {
+  position: absolute;
+  top: 98px;
+  left: 1220px;
+  font-size: var(--font-size-smi);
+}
+.rectangle-div {
+  top: 135px;
+  background-color: var(--color-black);
+  height: 50px;
+}
+.desktop-5-child1,
+.desktop-5-child2,
+.rectangle-div {
+  position: absolute;
+  left: 0;
+  width: 1440px;
+}
+.desktop-5-child1 {
+  top: 836px;
+  background-color: #0f0f0f;
+  height: 460px;
+}
+.desktop-5-child2 {
+  top: 1296px;
+  background-color: var(--color-black);
+  height: 120px;
+}
+.image-1-icon {
+  position: absolute;
+  top: 5px;
+  left: 20px;
+  width: 159px;
+  height: 55px;
+  object-fit: cover;
+}
+.my-kawasaki {
+  position: absolute;
+  top: 22px;
+  left: 567px;
+  font-size: var(--font-size-smi);
+  color: var(--color-black);
+  display: inline-block;
+  width: 74px;
+  height: 21px;
+}
+.span {
+  font-size: 12px;
+  font-family: var(--font-fira-sans);
+}
+.cart-0,
+.wishlist {
+  position: absolute;
+  top: 22px;
+  left: 678px;
+  color: var(--color-black);
+  font-size: var(--font-size-smi);
+}
+.wishlist {
+  top: 23px;
+  left: 754px;
+}
+.well-deliver-the {
+  font-size: var(--font-size-base);
+}
+.shop-now {
+  text-decoration: underline;
+}
+.well-deliver-the-container {
+  position: absolute;
+  top: 148px;
+  left: 444px;
+  font-size: var(--font-size-smi);
+}
+.kawasaki-motors-corp-usa {
+  margin: 0;
+}
+.ca-privacy-rights {
+  margin: 0;
+  text-decoration: underline;
+}
+.download-the-kawasaki,
+.kawasaki-motors-corp-container {
+  position: absolute;
+  top: 1323px;
+  font-size: var(--font-size-smi);
+}
+.kawasaki-motors-corp-container {
+  left: 71px;
+  color: var(--color-gray-100);
+  display: inline-block;
+  width: 329px;
+  height: 58px;
+}
+.download-the-kawasaki {
+  left: 529px;
+}
+.image-9-icon {
+  position: absolute;
+  top: 1353px;
+  left: 529px;
+  width: 176px;
+  height: 32px;
+  object-fit: cover;
+}
+.about-kawasaki {
+  position: absolute;
+  top: 853px;
+  left: 20px;
+  font-size: var(--font-size-6xl);
+  text-transform: uppercase;
+}
+.international-sites,
+.kawasaki-companies,
+.kawasaki-history,
+.kawasaki-technology {
+  position: absolute;
+  top: 907px;
+  left: 20px;
+  text-decoration: underline;
+  text-transform: uppercase;
+  color: inherit;
+}
+.international-sites,
+.kawasaki-companies,
+.kawasaki-technology {
+  top: 941px;
+}
+.international-sites,
+.kawasaki-technology {
+  top: 973px;
+}
+.kawasaki-technology {
+  top: 912px;
+  left: 207px;
+}
+.corporate-careers,
+.corporate-contact-info,
+.legal-policies,
+.manufacturing-careers,
+.transparency-in-coverage {
+  position: absolute;
+  top: 941px;
+  left: 207px;
+  text-decoration: underline;
+  text-transform: uppercase;
+  color: inherit;
+}
+.corporate-careers,
+.corporate-contact-info,
+.manufacturing-careers,
+.transparency-in-coverage {
+  top: 973px;
+}
+.corporate-contact-info,
+.manufacturing-careers,
+.transparency-in-coverage {
+  top: 1010px;
+}
+.corporate-contact-info,
+.transparency-in-coverage {
+  top: 1046px;
+}
+.corporate-contact-info {
+  top: 912px;
+  left: 470px;
+}
+.e-commerce-help-center,
+.industry-links,
+.kawasaki-vehicle-support,
+.racing-contingency,
+.safety-resources {
+  position: absolute;
+  top: 941px;
+  left: 470px;
+  text-decoration: underline;
+  text-transform: uppercase;
+  color: inherit;
+}
+.e-commerce-help-center,
+.industry-links,
+.racing-contingency,
+.safety-resources {
+  top: 973px;
+}
+.e-commerce-help-center,
+.industry-links,
+.racing-contingency {
+  top: 912px;
+  left: 748px;
+}
+.e-commerce-help-center,
+.industry-links {
+  top: 941px;
+}
+.e-commerce-help-center {
+  top: 973px;
+}
+.dealer-info,
+.news,
+.resources,
+.stay-connected {
+  position: absolute;
+  top: 1117px;
+  left: 26px;
+  font-size: var(--font-size-6xl);
+  text-transform: uppercase;
+}
+.dealer-info,
+.resources,
+.stay-connected {
+  left: 470px;
+}
+.resources,
+.stay-connected {
+  top: 853px;
+}
+.stay-connected {
+  left: 989px;
+}
+.awards-reviews,
+.press-releases {
+  position: absolute;
+  left: 26px;
+  font-size: var(--font-size-smi);
+  text-transform: uppercase;
+}
+.awards-reviews {
+  top: 1168px;
+  text-decoration: underline;
+  color: inherit;
+}
+.press-releases {
+  top: 1200px;
+}
+.dealer-locator,
+.events,
+.press-releases,
+.recalls {
+  text-decoration: underline;
+  color: inherit;
+}
+.recalls {
+  position: absolute;
+  top: 1232px;
+  left: 26px;
+  font-size: var(--font-size-smi);
+  text-transform: uppercase;
+}
+.dealer-locator,
+.events {
+  top: 1168px;
+}
+.events {
+  position: absolute;
+  left: 207px;
+  font-size: var(--font-size-smi);
+  text-transform: uppercase;
+}
+.dealer-locator {
+  left: 470px;
+}
+.become-a-dealer,
+.dealer-locator,
+.manage-subscription-preference,
+.receive-the-latest {
+  position: absolute;
+  font-size: var(--font-size-smi);
+  text-transform: uppercase;
+}
+.become-a-dealer {
+  top: 1199px;
+  left: 470px;
+  text-decoration: underline;
+  color: inherit;
+}
+.manage-subscription-preference,
+.receive-the-latest {
+  top: 917px;
+  left: 989px;
+}
+.manage-subscription-preference {
+  top: 1038px;
+  text-decoration: underline;
+  color: inherit;
+}
+.image-10-icon,
+.image-11-icon,
+.image-12-icon,
+.image-13-icon,
+.image-14-icon {
+  position: absolute;
+  top: 1154px;
+  left: 20px;
+  width: 415px;
+  height: 14px;
+  object-fit: cover;
+}
+.image-11-icon,
+.image-12-icon,
+.image-13-icon,
+.image-14-icon {
+  left: 464px;
+}
+.image-11-icon,
+.image-12-icon,
+.image-13-icon {
+  top: 890px;
+  left: 466px;
+  width: 449px;
+}
+.image-12-icon,
+.image-13-icon {
+  left: 985px;
+  width: 418px;
+}
+.image-13-icon {
+  top: 964px;
+  left: 989px;
+  width: 124px;
+  height: 46px;
+}
+.atv,
+.motorcycle,
+.side-x-side {
+  position: absolute;
+  top: 95px;
+  left: 51px;
+}
+.atv,
+.side-x-side {
+  left: 173px;
+}
+.side-x-side {
+  left: 238px;
+}
+.electrification,
+.watercraft {
+  position: absolute;
+  top: 95px;
+  left: 338px;
+}
+.electrification {
+  left: 463px;
+}
+.experience,
+.government-fleet,
+.owner-center,
+.racing,
+.shop {
+  position: absolute;
+  top: 97px;
+  left: 725px;
+  font-size: var(--font-size-smi);
+}
+.government-fleet,
+.owner-center,
+.racing,
+.shop {
+  left: 823px;
+}
+.owner-center,
+.racing,
+.shop {
+  left: 953px;
+}
+.owner-center,
+.racing {
+  left: 1020px;
+}
+.racing {
+  top: 98px;
+  left: 1124px;
+}
+.image-21-icon,
+.image-22-icon,
+.image-23-icon,
+.image-24-icon,
+.image-25-icon {
+  position: absolute;
+  top: 80px;
+  left: 25px;
+  width: 15px;
+  height: 55px;
+  object-fit: cover;
+}
+.image-22-icon,
+.image-23-icon,
+.image-24-icon,
+.image-25-icon {
+  left: 147px;
+}
+.image-23-icon,
+.image-24-icon,
+.image-25-icon {
+  left: 212px;
+}
+.image-24-icon,
+.image-25-icon {
+  left: 322px;
+}
+.image-25-icon {
+  left: 436px;
+}
+.desktop-5-child3,
+.desktop-5-child4,
+.desktop-5-child5,
+.polygon-icon {
+  position: absolute;
+  top: 105.3px;
+  left: 135.6px;
+  width: 7.8px;
+  height: 6.8px;
+}
+.desktop-5-child3,
+.desktop-5-child4,
+.desktop-5-child5 {
+  left: 203.6px;
+}
+.desktop-5-child4,
+.desktop-5-child5 {
+  left: 312.6px;
+}
+.desktop-5-child5 {
+  left: 420.6px;
+}
+.desktop-5-child6,
+.desktop-5-child7,
+.desktop-5-child8,
+.desktop-5-child9 {
+  position: absolute;
+  top: 105.3px;
+  left: 567.6px;
+  width: 7.8px;
+  height: 6.8px;
+}
+.desktop-5-child7,
+.desktop-5-child8,
+.desktop-5-child9 {
+  left: 787.6px;
+}
+.desktop-5-child8,
+.desktop-5-child9 {
+  left: 931.6px;
+}
+.desktop-5-child9 {
+  left: 982.6px;
+}
+.desktop-5-child10,
+.desktop-5-child11,
+.desktop-5-child12 {
+  position: absolute;
+  top: 104.3px;
+  left: 1095.6px;
+  width: 7.8px;
+  height: 6.8px;
+}
+.desktop-5-child11,
+.desktop-5-child12 {
+  top: 105.3px;
+  left: 1163.6px;
+}
+.desktop-5-child12 {
+  left: 1305.6px;
+}
+.image-26-icon,
+.image-27-icon,
+.image-28-icon {
+  position: absolute;
+  top: 22px;
+  left: 549px;
+  width: 14.5px;
+  height: 19px;
+  object-fit: cover;
+}
+.image-27-icon,
+.image-28-icon {
+  left: 654px;
+  width: 19.5px;
+}
+.image-28-icon {
+  top: 20px;
+  left: 735px;
+  width: 18.5px;
+  height: 22px;
+}
+.image-29-icon,
+.image-30-icon,
+.image-31-icon {
+  position: absolute;
+  top: 24px;
+  left: 833px;
+  width: 17px;
+  height: 17px;
+  object-fit: cover;
+}
+.image-30-icon,
+.image-31-icon {
+  top: 22px;
+  left: 938px;
+  width: 14.5px;
+  height: 20.5px;
+}
+.image-31-icon {
+  top: 18px;
+  left: 1292px;
+  width: 35px;
+  height: 35px;
+}
+.image-32-icon,
+.image-48-icon,
+.image-49-icon {
+  position: absolute;
+  top: 16px;
+  left: 1086px;
+  width: 198px;
+  height: 37px;
+  object-fit: cover;
+}
+.image-48-icon,
+.image-49-icon {
+  top: 1319px;
+  left: 1154px;
+  width: 28px;
+  height: 28px;
+}
+.image-49-icon {
+  top: 1322px;
+  left: 1202px;
+  width: 24px;
+  height: 24px;
+}
+.image-50-icon,
+.image-51-icon,
+.image-52-icon {
+  position: absolute;
+  top: 1319px;
+  left: 1250px;
+  width: 30px;
+  height: 31px;
+  object-fit: cover;
+}
+.image-51-icon,
+.image-52-icon {
+  top: 1321px;
+  left: 1303px;
+  width: 27px;
+  height: 26px;
+}
+.image-52-icon {
+  left: 1355px;
+  width: 27.5px;
+  height: 27.5px;
+}
+.desktop-5-child13 {
+  position: absolute;
+  top: 185px;
+  left: 0;
+  background-color: var(--color-gray-100);
+  width: 1440px;
+  height: 651px;
+}
+.desktop-5-child14 {
+  position: absolute;
+  top: 378px;
+  left: 743px;
+  background-color: #d2caca;
+  width: 643px;
+  height: 421px;
+}
+.image-53-icon {
+  position: absolute;
+  top: 315px;
+  left: 203px;
+  width: 1183px;
+  height: 30px;
+  object-fit: cover;
+}
+.my-bucket {
+  position: absolute;
+  top: 292px;
+  left: 51px;
+  font-size: 32px;
+  color: var(--color-black);
+}
+.edit,
+.item,
+.z900rs-abs-vehicle-container {
+  position: absolute;
+  top: 401px;
+  left: 772px;
+  font-size: var(--font-size-3xl);
+  color: var(--color-black);
+}
+.edit,
+.z900rs-abs-vehicle-container {
+  top: 392px;
+  left: 292px;
+}
+.edit {
+  top: 561px;
+  font-size: var(--font-size-mini);
+  text-decoration: underline;
+  font-family: var(--font-helvetica-neue-lt-std);
+}
+.have-an-online,
+.total,
+.view-details {
+  position: absolute;
+  left: 772px;
+  color: var(--color-black);
+}
+.have-an-online {
+  top: 453px;
+  font-size: var(--font-size-mini);
+  font-family: var(--font-helvetica-neue-lt-std);
+}
+.total,
+.view-details {
+  top: 626px;
+  font-family: var(--font-fira-sans);
+}
+.view-details {
+  top: 514px;
+  left: 292px;
+  font-size: var(--font-size-smi);
+}
+.delivery-charge {
+  top: 575px;
+  left: 772px;
+}
+.delivery-charge,
+.div,
+.div1,
+.div2,
+.div3,
+.remove,
+.subtotal {
+  position: absolute;
+  font-family: var(--font-fira-sans);
+  color: var(--color-black);
+}
+.remove {
+  top: 558px;
+  left: 357px;
+  text-decoration: underline;
+}
+.div,
+.div1,
+.div2,
+.div3,
+.subtotal {
+  top: 525px;
+  left: 772px;
+}
+.div,
+.div1,
+.div2,
+.div3 {
+  left: 919px;
+}
+.div1,
+.div2,
+.div3 {
+  top: 626px;
+}
+.div2,
+.div3 {
+  top: 515px;
+  left: 487px;
+}
+.div3 {
+  top: 575px;
+  left: 919px;
+}
+.desktop-5-child15 {
+  position: absolute;
+  top: 678px;
+  left: 772px;
+  border-radius: 30px;
+  background-color: #61cc3c;
+  width: 391px;
+  height: 63px;
+}
+.checkout,
+.div4 {
+  position: absolute;
+  top: 700px;
+  left: 1060px;
+  font-family: var(--font-fira-sans);
+  color: var(--color-black);
+}
+.checkout {
+  top: 698px;
+  left: 802px;
+  font-size: 20px;
+  font-family: var(--font-helvetica-neue-lt-std);
+}
+.image-62-icon {
+  position: absolute;
+  top: 413px;
+  left: 45px;
+  width: 226px;
+  height: 172px;
+  object-fit: cover;
+}
+.desktop-5 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1416px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-oswald);
+}

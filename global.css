@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-helvetica-neue-lt-std: "Helvetica Neue LT Std";
+  --font-fira-sans: "Fira Sans";
+  --font-oswald: Oswald;
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-smi: 13px;
+  --font-size-mini: 15px;
+  --font-size-3xl: 22px;
+  --font-size-6xl: 25px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-gray-100: #fffefe;
+}
